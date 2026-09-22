@@ -1,0 +1,1 @@
+{"name": "petclinic-consumer-2", "language": "typescript", "role": "consumer", "calls": [{"provider": "petclinic-api", "method": "GET", "endpoint": "/api/vets"}, {"provider": "petclinic-api", "method": "GET", "endpoint": "/api/pettypes"}]}
